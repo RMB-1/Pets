@@ -1,0 +1,50 @@
+html {
+    display: inline;
+    background: black;
+    color: gray;
+    text-align: center;
+    align-items: center;
+}
+h1 {
+    font-size: xx-large;
+}
+h2 {
+  font-size: x-large;
+}
+h3 {
+    font-size: large;
+  }
+s1 {
+    display: block;
+    font-size: small;
+}
+s2 {
+    display: block;
+    font-size: x-small;
+}
+s3 {
+    display: block;
+    font-size: xx-small;
+}
+spam {
+    display: block;
+}
+img {
+    width: 85%;
+    height: auto;
+}
+button {
+    background: black;
+    color: grey;
+    border: 1% solid grey;
+    font-size: large;
+    width:45%;
+    max-width: 100px;
+    height: auto;
+    transition-duration: 0.4s;
+}
+button:hover {
+    background-color: gray;
+    color: black;
+    border: 2px solid grey;
+}
