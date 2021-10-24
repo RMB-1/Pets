@@ -39,7 +39,7 @@ button {
     border: 1% solid grey;
     font-size: large;
     width:45%;
-    max-width: 100px;
+    max-width: 100em;
     height: auto;
     transition-duration: 0.4s;
 }
